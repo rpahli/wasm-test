@@ -2,3 +2,4 @@
 !.gitignore
 !release.wasm
 !debug.wasm
+!proxy_wasm_example_http_auth_random.wasm
